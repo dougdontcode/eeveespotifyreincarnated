@@ -10,7 +10,7 @@ For non-jailbroken devices, use the patched IPA files available in the releases.
 - **TrollStore** (recommended for iOS 14-16.6.1, 17.0)
 - **Sideloadly** (7-day signing)
 - **AltStore** (7-day signing)
-- **Signing services** with paid certificates
+- **Signing services** with paid certificates, such as [**FlareStore**](https://flarestore.app)
 
 EeveeSpotify only supports iOS and iPadOS and is not planned to be supported on other platforms. You can sideload the iPadOS version on an Apple Silicon Mac, though.
 
@@ -28,7 +28,7 @@ If you're using a paid certificate, to navigate to a song from the lock screen, 
 
 EeveeSpotify does not accept free feature requests. If you need something, feel free to implement it yourself, or submit a pull request if you think others may find it useful. If you're willing to pay for a feature, open an issue to discuss further opportunities.
 
-Note that many Premium features are server-sided and will never work without a Premium subscription (e.g., very high quality audio, offline downloads on mobile data).
+Note that many Premium features are server-sided and will never work without a Premium subscription (e.g., very high quality audio, AI DJ, offline downloads on mobile data).
 
 # Troubleshooting & Issues
 
